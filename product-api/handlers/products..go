@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/nicholasjackson/building-microservices-youtube/product-api/data"
+	"github.com/vladilins/go-rest/product-api/data"
 )
 
 // Products is a http.Handler
